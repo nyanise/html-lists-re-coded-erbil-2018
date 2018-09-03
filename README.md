@@ -14,7 +14,7 @@
 
 In our `real-estate-listings.html` page, under the `<h4>2014</h4>` tag we added
 in the previous lesson, we should add some months in a list. In HTML, we can
-list things using the `<ul>` tag, which stands for _unordered list_, along with
+list things using the `<ul>` tag, which stlearnands for _unordered list_, along with
 the `<li>` tag, _list item_.
 
 To make a list, we write out the opening and closing `<ul>` tags, and inside
